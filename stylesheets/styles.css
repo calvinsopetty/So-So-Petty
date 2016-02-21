@@ -65,6 +65,8 @@ body {
 h1 {
   color:DeepSkyBlue;
   margin:0 0 20px;
+  font-size:28px;
+  line-height:1.1;
 }
 
 h2, h3, h4, h5, h6 {
@@ -76,12 +78,8 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
-h1, h2, h3 {
+h2, h3 {
   line-height:1.1;
-}
-
-h1 {
-  font-size:28px;
 }
 
 h2 {
